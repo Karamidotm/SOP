@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body {
+    direction: rtl;
+    width: 100%;
+    background:#8bc34a;
+    font-size: 20px;
+    font-family: 'IRANSansWeb';
+    color:#000000;
+    margin:0;
+}
+
+pre {
+    direction: rtl;
+    margin:auto;
+    background: white;
+    padding:140px 0px;
+	line-height:150%;
+	text-align:center;
+	height:55vh;
+	width:70%;
+}
+
+h1 {
+	text-align:center;
+    color: #000000;
+    padding: 3%;
+    display: block;
+    max-width: 1600px;
+    width: 22%;
+    margin: 18px auto;
+}
